@@ -1,2 +1,2 @@
 # HelloGit
-this is a sample
+edit from new branch
